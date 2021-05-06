@@ -4,7 +4,7 @@ Welcome to my page! I'm Androz2091, a code-addicted developer from <img src="htt
 
 I also play **the cello** <img src="https://img.icons8.com/color/24/000000/cello.png" /> and **tennis** <img src="https://img.icons8.com/color/24/000000/tennis.png" /> to make my day ;)
 
-*Oh and I have a **[blog](https://blog.androz2091.fr)**! 📝*
+*Oh and I sometimes write things on my **[blog](https://blog.androz2091.fr)**! 📝*
 
 ### Skills & Tools 🖱️
 
