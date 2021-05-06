@@ -12,8 +12,9 @@ One of the thing that I love doing is discovering awesome tools that increase my
 
 I have also built at least one project with these tools/languages. Unlike Node, I don't use them every day, but I may have some experiences with:
 
-![python](https://github.com/Androz2091/Androz2091/raw/main/python.png) **Python**  
-![react](https://github.com/Androz2091/Androz2091/raw/main/react-js.png) **React**  
-<img src="https://github.com/Androz2091/Androz2091/raw/main/svelte.png" width="24px" /> **Svelte**  
-![mongodb](https://github.com/Androz2091/Androz2091/raw/main/mongo.png) **MongoDB**  
-<img src="https://github.com/Androz2091/Androz2091/raw/main/ruby.png" width="18px" /> **Ruby**  
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> **Python**  
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> **React**  
+<img height="30" src="https://avatars.githubusercontent.com/u/23617963"> **Svelte**. 
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"> **MongoDB**  
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"> **Ruby**  
+
