@@ -20,10 +20,10 @@ I'm the maintainer of more than 150 open source projects, such as:
 
 ### Skills & Tools 🖱️
 
-When I need to build things, I usually go for ![vue](https://github.com/Androz2091/Androz2091/raw/main/vue.png) **Vue.js** to code my websites and ![node-js](https://github.com/Androz2091/Androz2091/raw/main/node-js.png) **Node.js** with ![typescript](https://github.com/Androz2091/Androz2091/raw/main/typescript.png) **TypeScript** for my bots and APIs. My favorite database is definitely ![postgresql](https://github.com/Androz2091/Androz2091/raw/main/postgresql.png) **PostgreSQL**.
+When I need to build things, I usually go for ![vue](https://github.com/Androz2091/Androz2091/raw/main/vue.png) **Vue.js** to code my websites and ![node-js](https://github.com/Androz2091/Androz2091/raw/main/node-js.png) **Node.js** with ![typescript](https://github.com/Androz2091/Androz2091/raw/main/typescript.png) **TypeScript** for my bots and APIs. My favorite database is definitely ![postgresql](https://github.com/Androz2091/Androz2091/raw/main/postgresql.png) **PostgreSQL**.![](https://hit.yhype.me/github/profile?user_id=42497995)
 
 I love discovering languages or frameworks that increase my productivity for my new projects such as **Svelte**, **Golang**, **Flutter** or tools like **Sentry** so feel free to send me a message with your recommendations on Discord or Twitter! 😁
 
 ### Contact me 🤝
 
-I'm available on **[Discord](https://androz2091.fr/discord)** and **[Twitter](https://twitter.com/androz2091)**. 
+I'm available on **[Discord](https://androz2091.fr/discord)** and **[Twitter](https://twitter.com/androz2091)**.
