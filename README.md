@@ -6,6 +6,18 @@ I also play **the cello** <img src="https://img.icons8.com/color/24/000000/cello
 
 *Oh and I sometimes write things on my **[blog](https://blog.androz2091.fr)**! 📝*
 
+### Projects :sparkles:
+
+99% of my projects are open source :heart:
+I currently maintain more than 150 open source projects
+
+* **[AtlantaBot](https://github.com/Androz2091/AtlantaBot)**, another Discord BOT  
+* **[Notifications pour Pronote](https://github.com/EduWireApps/pronote-notifications)**, an app for French students available on **[iOS](https://apps.apple.com/fr/app/notifications-pour-pronote/id1564109971)** and **[Android](https://play.google.com/store/apps/details?id=com.androz2091.pronote_notifications&gl=FR)**.  
+* **[Discord Data Package Explorer](https://github.com/Androz2091/AtlantaBot)**, to extract statistics from your Discord data package
+* **[Scratch For Discord](https://github.com/Androz2091/scratch-for-discord)**, to make a Discord BOT without any coding knowledge
+* **[ManageInvite](https://github.com/manage-invite)**, a +15,000 servers Discord BOT to manage your server invites
+* and more like **[discord-giveaways](https://github.com/Androz2091/discord-giveaways)**, **[discord-player](https://github.com/Androz2091/discord-player)**, **[discord-backup](https://github.com/Androz2091/discord-backup)**, **[discord-logs](https://github.com/Androz2091/discord-logs)**
+
 ### Skills & Tools 🖱️
 
 When I need to build things, I usually go for ![vue](https://github.com/Androz2091/Androz2091/raw/main/vue.png) **Vue.js** to code my websites and ![node-js](https://github.com/Androz2091/Androz2091/raw/main/node-js.png) **Node.js** with ![typescript](https://github.com/Androz2091/Androz2091/raw/main/typescript.png) **TypeScript** for my bots and APIs. My favorite database is definitely ![postgresql](https://github.com/Androz2091/Androz2091/raw/main/postgresql.png) **PostgreSQL**.
