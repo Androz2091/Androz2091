@@ -8,8 +8,8 @@ I also play **the cello** <img src="https://img.icons8.com/color/24/000000/cello
 
 ### Projects :sparkles:
 
-99% of my projects are open source :heart:
-I currently maintain more than 150 open source projects
+99% of my projects are open source :heart:  
+I'm the maintainer of more than 150 open source projects, such as:
 
 * **[AtlantaBot](https://github.com/Androz2091/AtlantaBot)**, another Discord BOT  
 * **[Notifications pour Pronote](https://github.com/EduWireApps/pronote-notifications)**, an app for French students available on **[iOS](https://apps.apple.com/fr/app/notifications-pour-pronote/id1564109971)** and **[Android](https://play.google.com/store/apps/details?id=com.androz2091.pronote_notifications&gl=FR)**.  
