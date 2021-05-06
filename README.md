@@ -10,7 +10,7 @@ I also play **the cello** <img src="https://img.icons8.com/color/24/000000/cello
 
 When I need to build things, I usually go for ![vue](https://github.com/Androz2091/Androz2091/raw/main/vue.png) **Vue.js** to code my websites and ![node-js](https://github.com/Androz2091/Androz2091/raw/main/node-js.png) **Node.js** with ![typescript](https://github.com/Androz2091/Androz2091/raw/main/typescript.png) **TypeScript** for my bots and APIs. My favorite database is definitely ![postgresql](https://github.com/Androz2091/Androz2091/raw/main/postgresql.png) **PostgreSQL**.
 
-I love discovering languages or frameworks that increase my productivity for my new projects such as <img height="16" src="https://avatars.githubusercontent.com/u/23617963"> **Svelte**, <img height="16" src="https://github.com/Androz2091/Androz2091/raw/main/go.png"> **Golang**, <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"> **Flutter** or tools like  ![sentry](https://github.com/Androz2091/Androz2091/raw/main/sentry.png) **Sentry** or ![GitHub](https://github.com/Androz2091/Androz2091/raw/main/github.png) **GitHub** so feel free to send me a message with your recommendations! 😁
+I love discovering languages or frameworks that increase my productivity for my new projects such as **Svelte**, **Golang**, **Flutter** or tools like **Sentry** so feel free to send me a message with your recommendations on Discord or Twitter! 😁
 
 ### Contact me 🤝
 
