@@ -13,7 +13,7 @@ I'm the maintainer of more than 150 open source projects, such as:
 
 * **[AtlantaBot](https://github.com/Androz2091/AtlantaBot)**, another Discord BOT  
 * **[Notifications pour Pronote](https://github.com/EduWireApps/pronote-notifications-app)**, an app for French students available on **[iOS](https://apps.apple.com/fr/app/notifications-pour-pronote/id1564109971)** and **[Android](https://play.google.com/store/apps/details?id=com.androz2091.pronote_notifications&gl=FR)**.  
-* **[Discord Data Package Explorer](https://github.com/Androz2091/AtlantaBot)**, to extract statistics from your Discord data package
+* **[Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)**, to extract statistics from your Discord data package
 * **[Scratch For Discord](https://github.com/Androz2091/scratch-for-discord)**, to make a Discord BOT without any coding knowledge
 * **[ManageInvite](https://github.com/manage-invite)**, a +15,000 servers Discord BOT to manage your server invites
 * and more like **[discord-giveaways](https://github.com/Androz2091/discord-giveaways)**, **[discord-player](https://github.com/Androz2091/discord-player)**, **[discord-backup](https://github.com/Androz2091/discord-backup)**, **[discord-logs](https://github.com/Androz2091/discord-logs)**... !
