@@ -6,7 +6,7 @@ I also play **the cello** <img src="https://img.icons8.com/color/24/000000/cello
 
 *Oh and I sometimes write things on my **[blog](https://blog.androz2091.fr)**! 📝*
 
-### Projects :sparkles:
+### Projects ✨
 
 99% of my projects are open source :heart:  
 I'm the maintainer of more than 150 open source projects, such as:
