@@ -16,7 +16,7 @@ I'm the maintainer of more than 150 open source projects, such as:
 * **[Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)**, to extract statistics from your Discord data package
 * **[Scratch For Discord](https://github.com/Androz2091/scratch-for-discord)**, to make a Discord BOT without any coding knowledge
 * **[ManageInvite](https://github.com/manage-invite)**, a +15,000 servers Discord BOT to manage your server invites
-* and more like **[discord-giveaways](https://github.com/Androz2091/discord-giveaways)**, **[discord-player](https://github.com/Androz2091/discord-player)**, **[discord-backup](https://github.com/Androz2091/discord-backup)**, **[discord-logs](https://github.com/Androz2091/discord-logs)**... !
+* and more like **[discord-giveaways](https://github.com/Androz2091/discord-giveaways)**, **[discord-player](https://github.com/Androz2091/discord-player)**, **[discord-backup](https://github.com/Androz2091/discord-backup)**, **[discord-logs](https://github.com/Androz2091/discord-logs)**, **[discord-invites-tracker](https://github.com/Androz2091/discord-invites-tracker)**, **[discord-temp-channels](https://github.com/Androz2091/discord-temp-channels)**... !
 
 ### Skills & Tools 🖱️
 
