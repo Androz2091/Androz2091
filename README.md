@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-Welcome to my page! I'm Androz2091, a code-addicted student from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> **Toulouse, France**. 
+Welcome to my page! I'm Androz2091, a code-addicted student from <img src="https://img.icons8.com/color/1048/france-circular.png" width="13"/> **Toulouse, France**. 
 
 I also play **the cello** <img src="https://img.icons8.com/color/24/000000/cello.png" /> and **tennis** <img src="https://img.icons8.com/color/24/000000/tennis.png" /> to make my day ;)
 
