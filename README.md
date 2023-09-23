@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Androz2091, a code-addicted student from **France**, now studying at **EPFL, Switzerland**. 
+I'm Androz2091, a code-addicted guy from **France**, now studying at **EPFL, Switzerland**. 
 
 *I sometimes write things on my **[blog](https://blog.androz2091.fr)**. 📝*
 
