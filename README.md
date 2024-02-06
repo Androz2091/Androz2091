@@ -4,7 +4,7 @@ I'm Androz2091, a code-addicted guy from **France**, now studying at **EPFL, Swi
 
 *I sometimes write things on my **[blog](https://blog.androz2091.fr)**. 📝*
 
-![fiverr_banner](./fiverr_banner.png)
+<a href="https://fiverr.com/androz2091"><img src="./fiverr_banner.png" /></a>
 
 ### Projects ✨
 
