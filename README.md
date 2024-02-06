@@ -4,7 +4,7 @@ I'm Androz2091, a code-addicted guy from **France**, now studying at **EPFL, Swi
 
 *I sometimes write things on my **[blog](https://blog.androz2091.fr)**. 📝*
 
-My life's goal is to learn Rust.
+![fiverr_banner](./fiverr_banner.png)
 
 ### Projects ✨
 
