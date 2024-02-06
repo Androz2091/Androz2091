@@ -7,11 +7,11 @@ I'm Androz2091, a code-addicted guy from **France**, now studying at **EPFL, Swi
 Sometimes I acrivate my Fiverr profile to earn some money so I can spend the rest of the time here on GitHub doing non-profit projects :)  
 (don't worry, I still think OSS > freelance work)
 
-<a href="https://fiverr.com/androz2091"><img src="./fiverr_banner.png" height="200" /></a>
+<a href="https://fiverr.com/androz2091"><img src="./fiverr_banner.png" height="150px" /></a>
 
 ### Projects ✨
 
-I open source every single line of code I write.  
+I spent most of my time working on open source software.  
 
 I'm the maintainer of hundreds of open source projects, such as:
 
