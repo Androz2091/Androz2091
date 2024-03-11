@@ -4,16 +4,16 @@ I'm Androz2091, a code-addicted guy from **France**, now studying at **EPFL, Swi
 
 *I sometimes write things on my **[blog](https://blog.androz2091.fr)**. 📝*
 
-Sometimes I acrivate my Fiverr profile to earn some money so I can spend the rest of the time here on GitHub doing non-profit projects :)  
+Sometimes I activate my Fiverr profile to earn some money so I can spend the rest of the time here on GitHub doing non-profit projects :)  
 (don't worry, I still think OSS > freelance work)
 
 <a href="https://fiverr.com/androz2091"><img src="./fiverr_banner.png" height="200px" /></a>
 
 ### Projects ✨
 
-I spent most of my time working on open source software.  
+I spent most of my time working on open-source software.  
 
-I'm the maintainer of hundreds of open source projects, such as:
+I'm the maintainer of hundreds of open-source projects, such as:
 
 * **[AtlantaBot](https://github.com/Androz2091/AtlantaBot)**, another Discord BOT  
 * **[Notifications pour Pronote](https://github.com/EduWireApps/pronote-notifications-app)**, an app for French students available on **[iOS](https://apps.apple.com/fr/app/notifications-pour-pronote/id1564109971)** and **[Android](https://play.google.com/store/apps/details?id=com.androz2091.pronote_notifications&gl=FR)**.  
