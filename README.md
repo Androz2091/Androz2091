@@ -2,12 +2,9 @@
 
 I'm Androz2091 (a.k.a Simon). I'm from Toulouse, France and I'm now studying at EPFL, Switzerland. 
 
-*I sometimes write things on my **[blog](https://blog.androz2091.fr)**. 📝*
-
-Sometimes I activate my Fiverr profile to earn some money so I can spend the rest of the time here on GitHub doing non-profit projects :)  
-(don't worry, I still think OSS > freelance work)
-
-<a href="https://fiverr.com/androz2091"><img src="./fiverr_banner.png" height="200px" /></a>
+🗒️ [**My blog**](https://blog.androz2091.fr)
+👨‍💼 [**My freelancer page**](https://fiverr.com/androz2091)
+🟢 [**My status page**](https://ismyserverworki.ng)
 
 ### Projects ✨
 
