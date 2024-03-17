@@ -2,8 +2,8 @@
 
 I'm Androz2091 (a.k.a Simon). I'm from Toulouse, France and I'm now studying at EPFL, Switzerland. 
 
-🗒️ [**My blog**](https://blog.androz2091.fr)
-👨‍💼 [**My freelancer page**](https://fiverr.com/androz2091)
+🗒️ [**My blog**](https://blog.androz2091.fr)  
+👨‍💼 [**My freelancer page**](https://fiverr.com/androz2091)  
 🟢 [**My status page**](https://ismyserverworki.ng)
 
 ### Projects ✨
