@@ -11,9 +11,9 @@ Sometimes I activate my Fiverr profile to earn some money so I can spend the res
 
 ### Projects ✨
 
-I spent most of my time working on open source software.  
+I spent most of my time working on open-source software.  
 
-I'm the maintainer of hundreds of open source projects, such as:
+I'm the maintainer of hundreds of open-source projects, such as:
 
 * **[AtlantaBot](https://github.com/Androz2091/AtlantaBot)**, another Discord BOT  
 * **[Notifications pour Pronote](https://github.com/EduWireApps/pronote-notifications-app)**, an app for French students available on **[iOS](https://apps.apple.com/fr/app/notifications-pour-pronote/id1564109971)** and **[Android](https://play.google.com/store/apps/details?id=com.androz2091.pronote_notifications&gl=FR)**.  
