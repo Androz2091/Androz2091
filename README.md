@@ -6,6 +6,9 @@ I'm Androz2091 (a.k.a Simon). I'm from Toulouse, France and I'm now studying at 
 👨‍💼 [**My freelancer page**](https://fiverr.com/androz2091)  
 🟢 [**My status page**](https://ismyserverworki.ng)
 
+Alongside the software projects presented below, I spend a lot of time maintaining my own cloud server. 
+🕸️ [**My k8s cluster**](https://github.com/Androz2091/k8s-infrastructure)
+
 ### Projects ✨
 
 I spent most of my time working on open-source software.  
