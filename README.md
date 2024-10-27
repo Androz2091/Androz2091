@@ -11,9 +11,7 @@ Alongside the software projects presented below, I spend a lot of time maintaini
 
 ### Projects ✨
 
-I spent most of my time working on open-source software.  
-
-I'm the maintainer of hundreds of open-source projects, such as:
+I spent most of my time working on open-source software, such as:
 
 * **[AtlantaBot](https://github.com/Androz2091/AtlantaBot)**, another Discord BOT  
 * **[Notifications pour Pronote](https://github.com/EduWireApps/pronote-notifications-app)**, an app for French students available on **iOS and Android**.  
