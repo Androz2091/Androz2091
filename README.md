@@ -9,9 +9,6 @@ I'm Androz2091 (a.k.a Simon). I'm from Toulouse, France and I'm now studying at 
 Alongside the software projects presented below, I spend a lot of time maintaining my own cloud server.  
 🕸️ [**My k8s cluster**](https://github.com/Androz2091/k8s-infrastructure)
 
-> [!TIP]
-> I've just released [stagbot.net](https://stagbot.net), for your Discord community!
-
 ### Projects ✨
 
 I spent most of my time working on open-source software, such as:
