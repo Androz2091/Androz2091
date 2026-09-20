@@ -3,7 +3,9 @@
 I'm Androz2091 (a.k.a Simon).
 
 - born in Toulouse, France
-- studying at EPFL, Switzerland
+- studied at:
+  - EPFL, Switzerland
+  - UoE, United Kingdom
 - working in San Francisco, United States
 
 🗒️ [**My blog**](https://blog.androz2091.fr)  
